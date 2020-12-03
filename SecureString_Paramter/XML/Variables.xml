@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVariables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="4.7.0.8068">
+  <Variables name="Variable">
+    <Variable>
+      <Name>Parameter1</Name>
+      <Type>String</Type>
+      <Value>abcd</Value>
+      <Script />
+      <IsScraping>false</IsScraping>
+      <Direction>Out</Direction>
+      <IsCollection>false</IsCollection>
+      <Parameterized>true</Parameterized>
+      <Category>-1</Category>
+      <CategoryText />
+      <ProcessParameter>argument1</ProcessParameter>
+      <ProcessParameterType>String</ProcessParameterType>
+      <IsOldParameter>false</IsOldParameter>
+      <DuplicateParameterName />
+      <Description />
+    </Variable>
+    <Variable>
+      <Name>Parameter2</Name>
+      <Type>SecureString</Type>
+      <Value>Wg62ke5NS+YEe0MguuPkiQ==</Value>
+      <Script />
+      <IsScraping>false</IsScraping>
+      <Direction>Out</Direction>
+      <IsCollection>false</IsCollection>
+      <Parameterized>true</Parameterized>
+      <Category>-1</Category>
+      <ProcessParameter>argument2</ProcessParameter>
+      <ProcessParameterType>SecureString</ProcessParameterType>
+      <IsOldParameter>false</IsOldParameter>
+      <DuplicateParameterName />
+      <Description />
+    </Variable>
+  </Variables>
+  <Variables name="ExcelReader"></Variables>
+  <Variables name="CSVText"></Variables>
+  <Variables name="DataTable"></Variables>
+  <Variables name="Configuration"></Variables>
+  <Variables name="Parameter"></Variables>
+</ArrayOfVariables>
